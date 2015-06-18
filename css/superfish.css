@@ -82,12 +82,7 @@ nav{ position:relative; margin: 0 auto; padding:2px 0 0 0; float: inherit; text-
 	padding-left: 0px;
 	text-shadow: none;
 	padding: 3px 12px; }
-.sf-menu li li a:hover, .sf-menu li li.sfHover>a{ 
-	  background-color: #DFCF2F;
-  background-image: linear-gradient(to bottom, rgba(255,255,255,.1), rgba(255,255,255,.4), rgba(255,255,255,0), rgba(255,255,255,.4));
-  border-radius: 0px;
-  padding: 5px 10px;
-  color: #050774; }
+.sf-menu li li a:hover, .sf-menu li li.sfHover>a{ color:#ebdf1b; background:#E35845; }
 
 .sf-menu .menu-arrow{display:none;}
 @media only screen and (max-width: 995px) {

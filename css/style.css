@@ -338,7 +338,7 @@ Edição Melque
 }
 .menu{
   /*margin-left: 435px;*/
-  margin: 0 0 0px;
+  margin: 0 10px;
   padding: 15px 0px 15px;
   
 }
@@ -394,8 +394,8 @@ Headings and Panels
 */
 h2, h3, h4 {
 	font-weight: normal;
-}/*
-h2 {
+}
+/*h2 {
   font-size: 18px;
   line-height: 20px;
   color: #12212F;
@@ -453,39 +453,6 @@ h2.ind2 {
 	color: #12212f;
 	text-align: left;
 	margin-bottom: 48px
-}
-.conte_box {
-  font-size: 18px;
-  line-height: 20px;
-  color: #12212F;
-  text-transform: none;
-  text-align: justify;
-  position: relative;
-  border-bottom: 3px solid #eee;
-  padding-bottom: 12px;
-  margin-bottom: 24px;
-}
-.tMVV_boxs {
-  font-size: 18px;
-  line-height: 20px;
-  color: #12212F;
-  text-transform: none;
-  text-align: justify;
-  position: relative;
-  border-bottom: 3px solid #eee;
-  padding-bottom: 12px;
-  margin-bottom: 24px;
-}
-.MVV_boxs {
-  font-size: 17px;
-  line-height: 20px;
-  color: #12212F;
-  text-transform: none;
-  text-align: justify;
-  position: relative;
-  border-bottom: 3px solid #eee;
-  padding-bottom: 12px;
-  margin-bottom: 24px;
 }
 /*
 Home
