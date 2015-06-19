@@ -51,9 +51,9 @@ nav{ position:relative; margin: 0 auto; padding:2px 0 0 0; float: inherit; text-
 .sf-menu li li ul{
 	
 	left:171px;
-	top:0px; width: 170px; 	/* match top ul list item height */z-index:99;
-	
-	
+	top:0px; width: 170px;	/* match top ul list item height */z-index:99;
+	width: auto;
+
 	 background:#12212F;
 
 
@@ -67,7 +67,7 @@ nav{ position:relative; margin: 0 auto; padding:2px 0 0 0; float: inherit; text-
 	  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.5);
 	
 	}
-.sf-menu li li li{ text-align:left;  }
+.sf-menu li li li{ text-align:center;width: 240px;}
 
 .sf-menu li li li a{font-size: 13px; line-height: 24px; color:#fff; text-align:left; text-transform:uppercase;
 	
