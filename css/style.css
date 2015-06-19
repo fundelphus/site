@@ -337,9 +337,19 @@ Edição Melque
   background-color: rgb(18, 33, 47);
 }
 .menu{
-  /*margin-left: 435px;*/
+  /*margin-left: 435px;
   margin: 0 0 0px;
-  padding: 15px 0px 15px;
+  padding: 15px 0px 15px;*/
+
+  top: 50%;
+  left: 50%;
+  width: 980px;
+  height: 27px;
+  margin-left: -250px;
+  margin-top: 0px;
+  text-align: center;
+  margin-left: 190px;
+ 
   
 }
 .barra {
